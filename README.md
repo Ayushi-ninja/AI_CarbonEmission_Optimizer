@@ -18,7 +18,7 @@ Features
 
 bash
 Copy code
-git clone https://github.com/your-username/AI-Carbon-Emission-Optimizer.git
+git clone https://github.com/Ayushi_ninja/AI-Carbon-Emission-Optimizer.git
 cd AI-Carbon-Emission-Optimizer
 2️⃣ Install dependencies:
 
